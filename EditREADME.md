@@ -205,9 +205,7 @@
 | <h2 id="学术类">学术类</h2> |  |   |  |
 | A001 | 青柠学术 | 每个科研小白都有成为大神的潜力 | {{latest_content}}  |  [订阅地址](https://iseex.github.io/feed) |  
 | <h2 id="生活类">生活类</h2> |  |   |  |
-| L001 | 李子柒 | 李子柒的微博 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/weibo/user/2970452952) |  
-| L002 | 理想生活实验室 | 为更理想的生活 | {{latest_content}}  |  [订阅地址](https://www.toodaylab.com/rss) |  
-| L003 | 一兜糖 | 家的主理人社区 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/yidoutang/index) |
+| L001 | 理想生活实验室 | 为更理想的生活 | {{latest_content}}  |  [订阅地址](https://www.toodaylab.com/rss) |  
 | <h2 id="设计类">设计类</h2> |  |   |  |
 | D001 | Behance |  Adobe旗下设计网站Behance | {{latest_content}}  |  [订阅地址](https://www.behance.net/feeds/projects) |  
 | D002 | Behance官方博客 |  Behance官方博客 | {{latest_content}}  |  [订阅地址](https://medium.com/feed/@behance) |  
@@ -231,26 +229,15 @@
 | C010 | Linux中国 | Linux中文开源社区 | {{latest_content}}  |  [订阅地址](https://linux.cn/rss.xml) |  
 | C011 | V2EX | 创意工作者的社区 | {{latest_content}}  |  [订阅地址](https://www.v2ex.com/index.xml) |  
 | C012 | 酷壳(左耳朵耗子) | 酷 壳RSS | {{latest_content}}  |  [订阅地址](https://coolshell.cn/feed) |  
-| C013 | 豆瓣 | 豆瓣最受欢迎的影评 | {{latest_content}}  |  [订阅地址](https://www.douban.com/feed/review/movie) |  
-| C014 | 豆瓣 | 豆瓣最受欢迎的书评 | {{latest_content}}  |  [订阅地址](https://www.douban.com/feed/review/book) |  
-| C015 | 豆瓣 | 豆瓣最受欢迎的乐评 | {{latest_content}}  |  [订阅地址](https://www.douban.com/feed/review/music) |  
-| C016 | 开源中国 | 开源中国社区推荐文章 | {{latest_content}}  |  [订阅地址](https://www.oschina.net/blog/rss) |  
-| C017 | 博客园 | 博客园精华区 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  
-| C018 | 博客园 | 博客园首页 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  
-| C019 | PTT(台湾论坛) | PTT电影专题 | {{latest_content}}  |  [订阅地址](https://www.ptt.cc/atom/movie.xml) |  
-| C020 | PTT(台湾论坛) | PTT正妹专题 | {{latest_content}}  |  [订阅地址](https://www.ptt.cc/atom/beauty.xml) |  
+| C013 | 开源中国 | 开源中国社区推荐文章 | {{latest_content}}  |  [订阅地址](https://www.oschina.net/blog/rss) |  
+| C014 | 博客园 | 博客园精华区 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  
+| C015 | 博客园 | 博客园首页 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  
 | <div id="C021" style="text-align: center;"><img src="./_media/favicon/C021.png" width="30px" style="width:30px;height: auto;"/><br><span>C021</span></div> | 吾爱破解 | 吾爱破解精品软件区 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html) |  
 | <div id="C022" style="text-align: center;"><img src="./_media/favicon/C022.png" width="30px" style="width:30px;height: auto;"/><br><span>C022</span></div> | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | {{latest_content}}  |  [订阅地址](https://www.cnbeta.com/commentrss.php) |  
 | <div id="C023" style="text-align: center;"><img src="./_media/favicon/C023.png" width="30px" style="width:30px;height: auto;"/><br><span>C023</span></div> | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | {{latest_content}}  |  [订阅地址](https://bitinn.net/feed/) |  
-| C024 | Pixiv(艺术家社区) | 男性向作品排行 - 前20 | {{latest_content}}  |  [订阅地址](https://rakuen.thec.me/PixivRss/male-20) |
-| C025 | Pixiv(艺术家社区) | 女性向作品排行 - 前20 | {{latest_content}}  |  [订阅地址](https://rakuen.thec.me/PixivRss/female-20) |
-| C026 | Pixiv(艺术家社区) | Pixiv每日排行 - 前20 | {{latest_content}}  |  [订阅地址](http://rakuen.thec.me/PixivRss/daily-20) |  
-| C027 | Pixiv(艺术家社区) | Pixiv每月排行 - 前20 | {{latest_content}}  |  [订阅地址](http://rakuen.thec.me/PixivRss/monthly-20) |  
 | C028 | cnBeta | 中文业界资讯 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/cnbetatop.xml) |  
 | C029 | China Daily News | 中国每日新闻 | {{latest_content}}  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |  
-| C030 | MM范 | 妹子热门图 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/95mm/tab/热门) |  
 | C031 | CNU视觉联盟 | 每日精选 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/cnu/selected) | 
-| C032 | 香水时代 | 最新香水评论-发现香水圈的新鲜事 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/nosetime/home) |  
 | C033 | 恩山无线论坛  | 无线路由器爱好者的乐园 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/right/forum/31) |  
 | C034 | xLog | An open-source creative community written on the blockchain. | {{latest_content}}  |  [订阅地址](https://xlog.app/feed/hottest?interval=1) |  
 | C035 | NodeSeek | 一个面向Web开发、主机托管、VPS/服务器等技术话题的极客社区 | {{latest_content}}  |  [订阅地址](https://rss.nodeseek.com/) |  
@@ -260,10 +247,6 @@
 | M003 | Torlock |  种子站Torlock | {{latest_content}}  |  [订阅地址](https://www.torlock.com/rss.xml) | 
 | M004 | YTS |  Most popular Torrents in the smallest file size | {{latest_content}}  |  [订阅地址](https://yts.mx/rss) | 
 | M005 | RARBG |  种子站RARBG | {{latest_content}}  |  [订阅地址](https://rarbg.to/rss.php) | 
-| <h2 id="游戏">游戏</h2> |  |   |  |
-| <div id="G001" style="text-align: center;"><img src="./_media/favicon/G001.png" width="30px" style="width:30px;height: auto;"/><br><span>G001</span></div> | 机核网 |  不止是游戏 | {{latest_content}}  |  [订阅地址](https://www.gcores.com/rss) |  
-| <div id="G002" style="text-align: center;"><img src="./_media/favicon/G002.png" width="30px" style="width:30px;height: auto;"/><br><span>G002</span></div> | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | {{latest_content}}  |  [订阅地址](https://www.yystv.cn/rss/feed) |  
-| G003 | 游戏葡萄 |  深度解读游戏  | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/gamegrape/13) |  
 | <h2 id="资源类">资源类</h2> |  |   |  |
 | <div id="R001" style="text-align: center;"><img src="./_media/favicon/R001.png" width="30px" style="width:30px;height: auto;"/><br><span>R001</span></div> | 书格 |  有品格的数字古籍图书馆 | {{latest_content}}  |  [订阅地址](https://www.shuge.org/feed/) |  
 | R002 | 书伴 |  为静心阅读而生 | {{latest_content}}  |  [订阅地址](https://feeds.feedburner.com/bookfere) |  
