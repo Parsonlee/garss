@@ -167,6 +167,7 @@
 | <div id="B128" style="text-align: center;"><span>B128</span></div> |  涛叔 |   互联网从业者，专注效率工具和思维方法   | {{latest_content}} | [订阅地址](https://taoshu.in/feed.xml) |
 | <div id="B129" style="text-align: center;"><span>B129</span></div> |  可能吧 |   有趣有用的互联网趋势   | {{latest_content}} | [订阅地址](https://feeds.feedburner.com/kenengbarss) |
 | <div id="B130" style="text-align: center;"><span>B130</span></div> |  Guangzheng Li |   一个还在重新学习，重塑思想的开发者   | {{latest_content}} | [订阅地址](https://guangzhengli.com/rss.xml) |
+| <div id="B131" style="text-align: center;"><span>B131</span></div> |  苏剑林 |   科学空间博主，【数学、天文、理论物理、写作、阅读、计算机、中国象棋、厨房】爱好者   | {{latest_content}} | [订阅地址](https://spaces.ac.cn/feed) |
 | <h2 id="数码">数码</h2> |  |   |  |
 | D001 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) | 
 | D002 | 数字尾巴 | 分享美好数字生活 | {{latest_content}}  |  [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | 
@@ -181,6 +182,7 @@
 | I008 | 百度 FEX 团队 | FEX 技术周刊 | {{latest_content}}  |  [订阅地址](https://fex.baidu.com/feed.xml)  | 
 | I009 | JDC  | 京东设计中心 | {{latest_content}}  |  [订阅地址](https://jdc.jd.com/feed)  | 
 | I010 | 凹凸实验室  | 凹凸技术揭秘 · 技术精进与业务发展两不误 | {{latest_content}}  |  [订阅地址](https://aotu.io/atom.xml)  | 
+| I011 | HuggingFace Blog  | HuggingFace's Blog | {{latest_content}}  |  [订阅地址](https://huggingface.co/blog/feed.xml)  | 
 | <h2 id="公司官方新闻">公司官方新闻</h2> |  |   |  |
 | C001 | Apple新闻 | Apple官方消息 | {{latest_content}}  |  [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
