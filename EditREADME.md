@@ -243,8 +243,7 @@
 | C029 | China Daily News | 中国每日新闻 | {{latest_content}}  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |  
 | C031 | CNU视觉联盟 | 每日精选 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/cnu/selected) | 
 | C033 | 恩山无线论坛  | 无线路由器爱好者的乐园 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/right/forum/31) |  
-| C034 | xLog | An open-source creative community written on the blockchain. | {{latest_content}}  |  [订阅地址](https://xlog.app/feed/hottest?interval=1) |  
-| C035 | NodeSeek | 一个面向Web开发、主机托管、VPS/服务器等技术话题的极客社区 | {{latest_content}}  |  [订阅地址](https://rss.nodeseek.com/) |  
+| C034 | NodeSeek | 一个面向Web开发、主机托管、VPS/服务器等技术话题的极客社区 | {{latest_content}}  |  [订阅地址](https://rss.nodeseek.com/) |  
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | <div id="M001" style="text-align: center;"><img src="./_media/favicon/M001.png" width="30px" style="width:30px;height: auto;"/><br><span>M001</span></div> | VIP影院 |  666影院 - 全网VIP电影免费看！ | {{latest_content}}  |  [订阅地址](https://bukaivip.com/rss) |  
 | M002 | LimeTorrents |  Latest Torrents RSS | {{latest_content}}  |  [订阅地址](https://www.limetorrents.pro/rss/) |
