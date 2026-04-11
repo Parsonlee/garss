@@ -171,6 +171,7 @@
 | <div id="B132" style="text-align: center;"><span>B132</span></div> |  Sebastian Raschka |   I am an LLM Research Engineer with over a decade of experience in artificial intelligence.   | {{latest_content}} | [订阅地址](https://sebastianraschka.com/rss_feed.xml) |
 | <div id="B133" style="text-align: center;"><span>B133</span></div> | 宝玉 |   | {{latest_content}} | [订阅地址](https://baoyu.io/feed.xml) |
 | <div id="B134" style="text-align: center;"><span>B134</span></div> | Simon Willison |   | {{latest_content}} | [订阅地址](https://simonwillison.net/atom/links/) |
+| <div id="B135" style="text-align: center;"><span>B135</span></div> | 肖恩聊技术 |   | {{latest_content}} | [订阅地址](https://shawnxie.top/rss.xml) |
 | <h2 id="数码">数码</h2> |  |   |  |
 | D001 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) | 
 | D002 | 数字尾巴 | 分享美好数字生活 | {{latest_content}}  |  [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | 
