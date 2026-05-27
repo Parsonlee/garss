@@ -236,10 +236,11 @@
 | C009 | WordPress大学 | WordPress建站资源平台 | {{latest_content}}  |  [订阅地址](https://www.wpdaxue.com/feed) |  
 | C010 | Linux中国 | Linux中文开源社区 | {{latest_content}}  |  [订阅地址](https://linux.cn/rss.xml) |  
 | C011 | V2EX | 创意工作者的社区 | {{latest_content}}  |  [订阅地址](https://www.v2ex.com/index.xml) |  
-| C012 | 酷壳(左耳朵耗子) | 酷 壳RSS | {{latest_content}}  |  [订阅地址](https://coolshell.cn/feed) |  
-| C013 | 开源中国 | 开源中国社区推荐文章 | {{latest_content}}  |  [订阅地址](https://www.oschina.net/blog/rss) |  
-| C014 | 博客园 | 博客园精华区 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  
-| C015 | 博客园 | 博客园首页 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  
+| C012 | Linuxdo | 创意工作者的社区 | {{latest_content}}  |  [订阅地址](https://linux.do/latest.rss) |  
+| C013 | 酷壳(左耳朵耗子) | 酷 壳RSS | {{latest_content}}  |  [订阅地址](https://coolshell.cn/feed) |  
+| C014 | 开源中国 | 开源中国社区推荐文章 | {{latest_content}}  |  [订阅地址](https://www.oschina.net/blog/rss) |  
+| C015 | 博客园 | 博客园精华区 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  
+| C016 | 博客园 | 博客园首页 | {{latest_content}}  |  [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  
 | <div id="C021" style="text-align: center;"><img src="./_media/favicon/C021.png" width="30px" style="width:30px;height: auto;"/><br><span>C021</span></div> | 吾爱破解 | 吾爱破解精品软件区 | {{latest_content}}  |  [订阅地址](https://rsshub.v2fy.com/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html) |  
 | <div id="C022" style="text-align: center;"><img src="./_media/favicon/C022.png" width="30px" style="width:30px;height: auto;"/><br><span>C022</span></div> | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | {{latest_content}}  |  [订阅地址](https://www.cnbeta.com/commentrss.php) |  
 | <div id="C023" style="text-align: center;"><img src="./_media/favicon/C023.png" width="30px" style="width:30px;height: auto;"/><br><span>C023</span></div> | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | {{latest_content}}  |  [订阅地址](https://bitinn.net/feed/) |  
